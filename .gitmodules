@@ -1,0 +1,9 @@
+[submodule "xbmc-archivczsk"]
+	path = xbmc-archivczsk
+	url = https://github.com/mx3L/xbmc-archivczsk.git
+[submodule "xbmc-doplnky"]
+	path = xbmc-doplnky
+	url = https://github.com/lzoubek/xbmc-doplnky.git
+[submodule "dmd-xbmc"]
+	path = dmd-xbmc
+	url = git@github.com:prismcube-czsk/dmd-xbmc.git
