@@ -1,0 +1,7 @@
+version 0.0.2
+oprava diakritiky
+version 0.0.1
+pøidáno do dmd-xbmc repo
+zmìna adresy pro aktualizaci playlistu z http://iamm.xf.cz/ims/xbmc/streams/
+zmìna menu nastavení pluginu
+testovací verze na základì LiveStreams 0.0.7 od Divingmule
