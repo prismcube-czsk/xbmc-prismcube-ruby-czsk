@@ -90,7 +90,7 @@
 
 <addon id="script.module.stream.resolver"
        name="stream resolver"
-       version="1.6.7"
+       version="1.6.9"
        provider-name="Libor Zoubek">
   <requires>
     <import addon="xbmc.python" version="2.0" />
@@ -109,11 +109,11 @@
 
 <addon id="plugin.video.befun.cz"
        name="befun.cz"
-       version="1.0.10"
+       version="1.0.11"
        provider-name="Libor Zoubek">
   <requires>
     <import addon="xbmc.python" version="2.0" />
-    <import addon="script.module.stream.resolver" version="1.6.6" />
+    <import addon="script.module.stream.resolver" version="1.6.8" />
   </requires>
   <extension point="xbmc.python.pluginsource"
              provides="video"
@@ -289,11 +289,11 @@
 
 <addon id="plugin.video.tv.sosac.ph"
        name="TV Sosáč"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Libor Zoubek">
   <requires>
     <import addon="xbmc.python" version="2.0" />
-    <import addon="script.module.stream.resolver" version="1.6.7" />
+    <import addon="script.module.stream.resolver" version="1.6.8" />
   </requires>
   <extension point="xbmc.python.pluginsource"
              provides="video"
@@ -426,11 +426,11 @@
 
 <addon id="plugin.video.online-files"
        name="Soubory Online"
-       version="1.2.2"
+       version="1.2.3"
        provider-name="Libor Zoubek">
   <requires>
     <import addon="xbmc.python" version="2.0" />
-    <import addon="script.module.stream.resolver" version="1.6.6" />
+    <import addon="script.module.stream.resolver" version="1.6.8" />
     <import addon="script.module.elementtree" version="1.2.7" />
   </requires>
   <extension point="xbmc.python.pluginsource"
