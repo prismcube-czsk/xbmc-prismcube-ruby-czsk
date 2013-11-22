@@ -72,3 +72,6 @@ release repository.xbmc.prismcube.ruby.czsk
 	
 echo 'regenerating addons.xml'
 python addons_xml_generator.py
+
+git checkout -- repo
+git add repo addons.xml addons.xml.md5
