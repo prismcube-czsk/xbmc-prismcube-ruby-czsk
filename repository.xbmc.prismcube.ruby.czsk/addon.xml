@@ -5,9 +5,9 @@
        provider-name="abcomsk">
   <extension point="xbmc.addon.repository"
               name="repozitar ceskych a slovensky doplnkov pre prismcube ruby vytvoreny z viacerych xbmc projektov">
-    <info compressed="false">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/addons.xml</info>
+    <info compressed="false">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/update_autumn_2014/addons.xml</info>
     <checksum>https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/repo</datadir>
+    <datadir zip="true">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/update_autumn_2014/repo</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>XBMC PrismCubeRuby CZ/SK</summary>
