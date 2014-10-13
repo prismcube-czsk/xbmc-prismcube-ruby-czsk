@@ -1,0 +1,5 @@
+v0.1.2
+[2014-02-14] - Vydani do repozitare / Release
+
+v0.1.1
+[2014-02-14] - Prvni verze / Initial version
