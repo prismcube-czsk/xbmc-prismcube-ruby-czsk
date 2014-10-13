@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.xbmc.prismcube.ruby.czsk"
-       version="1.0.0"
+       version="1.0.1"
        name="XBMC PrismcubeRuby CZ/SK"
        provider-name="abcomsk">
   <extension point="xbmc.addon.repository"
