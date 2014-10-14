@@ -61,10 +61,10 @@ BUILD_DIR=$TOOLS/repo
 echo "Cleaning up *.pyc files.."
 find . -name '*.pyc' | xargs rm -f
 
-repositories=$(ls -l | grep "^d" | gawk -F' ' '{print $8}')
+repositories=$(ls -l | grep "^d" | gawk -F' ' '{print $9}')
 for repository in $repositories ; do
     cd $repository
-    addons=$(ls -l | grep "^d" | gawk -F' ' '{print $8}')
+    addons=$(ls -l | grep "^d" | gawk -F' ' '{print $9}')
     release $addons
     cd ..
 done
