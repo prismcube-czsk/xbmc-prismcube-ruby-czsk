@@ -4,3 +4,54 @@
 [submodule "kodi-addons"]
 	path = kodi-addons
 	url = https://github.com/StepanOrt/kodi-addons.git
+[submodule "kodi-czsk/plugin.video.rtvs.sk"]
+	path = kodi-czsk/plugin.video.rtvs.sk
+	url = https://github.com/kodi-czsk/plugin.video.rtvs.sk.git
+[submodule "kodi-czsk/plugin.video.joj.sk"]
+	path = kodi-czsk/plugin.video.joj.sk
+	url = https://github.com/kodi-czsk/plugin.video.joj.sk.git
+[submodule "kodi-czsk/plugin.video.ta3.com"]
+	path = kodi-czsk/plugin.video.ta3.com
+	url = https://github.com/kodi-czsk/plugin.video.ta3.com.git
+[submodule "kodi-czsk/plugin.video.mixer.cz"]
+	path = kodi-czsk/plugin.video.mixer.cz
+	url = https://github.com/kodi-czsk/plugin.video.mixer.cz.git
+[submodule "kodi-czsk/plugin.video.mtr.sk"]
+	path = kodi-czsk/plugin.video.mtr.sk
+	url = https://github.com/kodi-czsk/plugin.video.mtr.sk.git
+[submodule "kodi-czsk/plugin.video.videacesky.cz"]
+	path = kodi-czsk/plugin.video.videacesky.cz
+	url = https://github.com/kodi-czsk/plugin.video.videacesky.cz.git
+[submodule "kodi-czsk/plugin.video.tv.sosac.ph"]
+	path = kodi-czsk/plugin.video.tv.sosac.ph
+	url = https://github.com/kodi-czsk/plugin.video.tv.sosac.ph.git
+[submodule "kodi-czsk/plugin.video.markiza.sk"]
+	path = kodi-czsk/plugin.video.markiza.sk
+	url = https://github.com/kodi-czsk/plugin.video.markiza.sk.git
+[submodule "kodi-czsk/plugin.video.jaksetodela.cz"]
+	path = kodi-czsk/plugin.video.jaksetodela.cz
+	url = https://github.com/kodi-czsk/plugin.video.jaksetodela.cz.git
+[submodule "kodi-czsk/plugin.video.gordon.ura.cz"]
+	path = kodi-czsk/plugin.video.gordon.ura.cz
+	url = https://github.com/kodi-czsk/plugin.video.gordon.ura.cz.git
+[submodule "kodi-czsk/plugin.video.befun.cz"]
+	path = kodi-czsk/plugin.video.befun.cz
+	url = https://github.com/kodi-czsk/plugin.video.befun.cz.git
+[submodule "kodi-czsk/plugin.video.barrandov.tv"]
+	path = kodi-czsk/plugin.video.barrandov.tv
+	url = https://github.com/kodi-czsk/plugin.video.barrandov.tv.git
+[submodule "kodi-czsk/plugin.video.koukni.cz"]
+	path = kodi-czsk/plugin.video.koukni.cz
+	url = https://github.com/kodi-czsk/plugin.video.koukni.cz.git
+[submodule "kodi-czsk/plugin.video.hejbejse.tv"]
+	path = kodi-czsk/plugin.video.hejbejse.tv
+	url = https://github.com/kodi-czsk/plugin.video.hejbejse.tv.git
+[submodule "kodi-czsk/plugin.video.online-files"]
+	path = kodi-czsk/plugin.video.online-files
+	url = https://github.com/kodi-czsk/plugin.video.online-files.git
+[submodule "kodi-czsk/plugin.video.pohadkar.cz"]
+	path = kodi-czsk/plugin.video.pohadkar.cz
+	url = https://github.com/kodi-czsk/plugin.video.pohadkar.cz.git
+[submodule "kodi-czsk/script.module.stream.resolver"]
+	path = kodi-czsk/script.module.stream.resolver
+	url = https://github.com/kodi-czsk/script.module.stream.resolver.git
