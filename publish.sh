@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 release(){
     echo "processing repository $repository"
@@ -65,6 +65,9 @@ repositories=$(ls -l | grep "^d" | gawk -F' ' '{print $9}')
 for repository in $repositories ; do
     cd $repository
     addons=$(ls -l | grep "^d" | gawk -F' ' '{print $9}')
+    if [ "$repository" == "dmd-xbmc" ] ; then
+        addons=$(echo $addons|sed "s/plugin.video.ivysilani//") 
+    fi 
     release $addons
     cd ..
 done

@@ -38,8 +38,8 @@ class Generator:
             # loop thru and add each addons addon.xml file
             for addon in addons:
 
-                # specific of this repository, we only need one stream-resolver
-                if repository =='xbmc-archivczsk' and addon =='script.module.stream.resolver':
+                # specific of this repository, we only need one plugin.video.ivysilani
+                if repository =='dmd-xbmc' and addon =='plugin.video.ivysilani':
                     continue
                 addon_path = os.path.join(repository,addon)
                 try:
