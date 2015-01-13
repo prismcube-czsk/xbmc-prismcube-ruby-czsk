@@ -1,3 +1,6 @@
 [submodule "dmd-xbmc"]
 	path = dmd-xbmc
 	url = git@github.com:prismcube-czsk/dmd-xbmc.git
+[submodule "kodi-addons"]
+	path = kodi-addons
+	url = https://github.com/StepanOrt/kodi-addons.git
