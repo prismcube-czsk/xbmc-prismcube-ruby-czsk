@@ -1,0 +1,5 @@
+2014-10-25
+ * Pridani statistik
+2011-11-01:
+ * Metropol.cz (alpha) - first release
+

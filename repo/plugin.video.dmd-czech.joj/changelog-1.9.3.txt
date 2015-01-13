@@ -1,0 +1,43 @@
+2014-10-25
+ * Pridani statistik
+2013-06-27:
+ * oprava doplňku, thanx to Martin Stachon
+2013-04-28:
+ * oprava doplňku, thanx to mx3Lm za poskytnutí zdrojů
+2013-03-04:
+ * aktualizace pořadů
+2012-10-02:
+ * přidán seriál Pod Povrchom
+2012-07-11:
+ * oprava strankovani a vypisu dilu, vice informaci na strankach projektu Issue 56!!!
+2012-04-08:
+ * aktualizace obsahu, pridan extra obsah :)
+2012-03-30:
+ * pridan special Hotel Paradise!!!!
+2012-03-22:
+ * zmena vynuseneho stream serveru
+2012-02-19:
+ * pridan porad Nevinni
+2012-02-12:
+ * pridan porad Riskni milion
+2012-01-16:
+ * pridan Videoportal.sk
+2011-12-26:
+ * pridana moznost "Vynuceny stream server" do nastaveni doplnku, snad by mohla vyresit problem se nefunkcnosti HQ na slovensku u nekterych ISP
+2011-11-13:
+ * oprava zobrazeni "bezejmennych" videi
+2011-11-02:
+ * debug
+2011-11-01:
+ * pridan pořad Farmar hlada zenu 2
+2011-09-12:
+ * pridan pořad CS ma talent
+2011-07-22:
+ * prechod na upravenou knihovnu BeautifulSOAP - udajne ma zpracovavat dotazy o 100% rychleji, thanx to IVO ;-)  
+2011-07-04:
+ * zmena fanart(u)
+2011-06-21:
+ * Oprava prehravani poradu Sefka
+2011-06-19:
+ * JOJ.sk (alpha) - first release
+

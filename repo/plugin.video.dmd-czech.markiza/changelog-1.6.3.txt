@@ -1,0 +1,44 @@
+2014-10-25
+ * Pridani statistik
+2012-08-19:
+ * oprava strankovani
+
+2012-07-07:
+ * pridan porad Vo Stvorici po Slovensku (thanx to perso...@alanellis.co.uk)
+
+2012-07-03:
+ * neplaceny obsah na nejakou dobu snad opet v provozu (by pali.rohar)
+
+2012-02-19:
+ * oprava parametru streamu, thenx to perso...@alanellis.co.uk
+
+2012-02-17:
+ * oprava parametru streamu, filtrace aktualne nespustitelnych poradu
+
+2012-02-09:
+ * oprava parametru streamu, thenx to perso...@alanellis.co.uk
+ 
+2012-02-06:
+ * zmena parsovani streamu 
+
+2012-02-03:
+ * oprava linku na kategorie poradu 
+ * oprava parsovani multipage seznamu
+  
+2012-01-10:
+ * odstraneni zrusene FUN TV, upravy parseru 
+
+2012-01-02:
+ * prechod na server voyo.sk, nemohu zarucit spravnou funkcnost na starsich mutacich XBMC, kde muze byt nefunkcni... Otestovano na XBMC 11 pod Win Vista a v XBMC 10.1 z 10.10.2011 pod OpenElec. (Thanx to IVOS and mp-onlinevideos2 project) 
+
+2011-08-15:
+ * uprava parsovani videa - nyni se BeutifulSOUP k ziskani linku na videa nepouziva vubec.... 
+
+2011-08-10:
+ * uprava parsovani videa - nyni pomoci BeutifulSOUP  
+
+2011-07-22:
+ * prechod na upravenou knihovnu BeautifulSOAP - udajne má zpracovavat dotazy o 100% rychleji, thanx to IVO ;-)  
+2011-07-04:
+ * Markiza.sk (alpha) - first release
+
