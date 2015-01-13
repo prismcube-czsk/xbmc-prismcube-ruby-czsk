@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.xbmc.prismcube.ruby.czsk"
-       version="1.0.0"
+       version="1.0.1"
        name="XBMC PrismcubeRuby CZ/SK"
-       provider-name="abcomsk">
+       provider-name="abcom.sk">
   <extension point="xbmc.addon.repository"
-              name="repozitar ceskych a slovensky doplnkov pre prismcube ruby vytvoreny z viacerych xbmc projektov">
+              name="repozitár českých a slovenských doplnkov pre príjmače prismcube ruby">
     <info compressed="false">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/addons.xml</info>
     <checksum>https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/addons.xml.md5</checksum>
     <datadir zip="true">https://raw.github.com/prismcube-czsk/xbmc-prismcube-ruby-czsk/master/repo</datadir>
@@ -12,25 +12,13 @@
   <extension point="xbmc.addon.metadata">
     <summary>XBMC PrismCubeRuby CZ/SK</summary>
     <description>
-	This repository contains choosed cz/sk addons from:
-		xbmc-doplnky - http://xbmc-doplnky.googlecode.com
-		xbmc-archivczsk - http://github.com/mx3L/xbmc-archivczsk
-		dmd-xbmc - http://dmd-xbmc.googlecode.com
-	Its ment for satellite receiver prismcube ruby
+This repository contains selected CZ/SK addons from following projects:[CR][CR]kodi-czsk - github.com/kodi-czsk[CR]kodi-addons - github.com/StepanOrt/kodi-addons[CR]dmd-xbmc - dmd-xbmc.googlecode.com[CR][CR]Its ment for satellite receiver prismcube ruby
     </description>
     <description lang="cs">
-	Tento repozitar obsahuje vybrane cz/sk doplnky z nasledujucich projektov:
-		xbmc-doplnky - http://xbmc-doplnky.googlecode.com
-                xbmc-archivczsk - http://github.com/mx3L/xbmc-archivczsk
-                dmd-xbmc - http://dmd-xbmc.googlecode.com
-	Je urceny hlave pre pouzivatelov sat. prijmaca prismcube ruby
+Tento repozitár obsahuje vybrané CZ/SK doplnky z nasledujúcich projektov:[CR][CR]kodi-czsk - github.com/kodi-czsk[CR][CR]kodi-addons - github.com/StepanOrt/kodi-addons[CR]dmd-xbmc - dmd-xbmc.googlecode.com[CR][CR]Je určený pre používatelov sat. príjmača prismcube ruby
     </description>
     <description lang="sk">
-        Tento repozitar obsahuje vybrane cz/sk doplnky z nasledujucich projektov:
-                xbmc-doplnky - http://xbmc-doplnky.googlecode.com
-                xbmc-archivczsk - http://github.com/mx3L/xbmc-archivczsk
-                dmd-xbmc - http://dmd-xbmc.googlecode.com
-        Je urceny hlave pre pouzivatelov sat. prijmaca prismcube ruby
+Tento repozitár obsahuje vybrané CZ/SK doplnky z nasledujúcich projektov:[CR][CR]kodi-czsk - github.com/kodi-czsk[CR][CR]kodi-addons - github.com/StepanOrt/kodi-addons[CR]dmd-xbmc - dmd-xbmc.googlecode.com[CR][CR]Je určený pre používatelov sat. príjmača prismcube ruby
     </description>
     <platform>all</platform>
   </extension>
