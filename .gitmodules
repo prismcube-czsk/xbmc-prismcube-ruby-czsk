@@ -1,6 +1,3 @@
-[submodule "xbmc-doplnky"]
-	path = xbmc-doplnky
-	url = https://github.com/lzoubek/xbmc-doplnky.git
 [submodule "dmd-xbmc"]
 	path = dmd-xbmc
 	url = git@github.com:prismcube-czsk/dmd-xbmc.git
