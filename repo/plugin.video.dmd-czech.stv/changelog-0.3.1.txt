@@ -1,0 +1,10 @@
+2014-10-25
+ * Pridani statistik
+2013-07-31:
+  * OPRAVA DOPLNKU (thanx to mx3Lm)
+2012-08-19:
+ * oprava vypisu poradu  
+2011-08-24:
+ * first release  
+
+
