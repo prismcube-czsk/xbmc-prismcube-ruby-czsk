@@ -19,9 +19,6 @@
 [submodule "kodi-czsk/plugin.video.videacesky.cz"]
 	path = kodi-czsk/plugin.video.videacesky.cz
 	url = https://github.com/kodi-czsk/plugin.video.videacesky.cz.git
-[submodule "kodi-czsk/plugin.video.tv.sosac.ph"]
-	path = kodi-czsk/plugin.video.tv.sosac.ph
-	url = https://github.com/kodi-czsk/plugin.video.tv.sosac.ph.git
 [submodule "kodi-czsk/plugin.video.markiza.sk"]
 	path = kodi-czsk/plugin.video.markiza.sk
 	url = https://github.com/kodi-czsk/plugin.video.markiza.sk.git
