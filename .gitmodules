@@ -49,3 +49,24 @@
 [submodule "kodi-czsk/script.module.stream.resolver"]
 	path = kodi-czsk/script.module.stream.resolver
 	url = https://github.com/kodi-czsk/script.module.stream.resolver.git
+[submodule "kodi-czsk/plugin.video.dmd-czech.prima"]
+	path = kodi-czsk/plugin.video.dmd-czech.prima
+	url = https://github.com/kodi-czsk/plugin.video.dmd-czech.prima.git
+[submodule "kodi-czsk/plugin.video.sosac.ph"]
+	path = kodi-czsk/plugin.video.sosac.ph
+	url = https://github.com/kodi-czsk/plugin.video.sosac.ph.git
+[submodule "kodi-czsk/plugin.video.dmd-czech.novaplus"]
+	path = kodi-czsk/plugin.video.dmd-czech.novaplus
+	url = https://github.com/kodi-czsk/plugin.video.dmd-czech.novaplus
+[submodule "kodi-czsk/plugin.audio.dmd-czech.play.cz"]
+	path = kodi-czsk/plugin.audio.dmd-czech.play.cz
+	url = https://github.com/kodi-czsk/plugin.audio.dmd-czech.play.cz.git
+[submodule "kodi-czsk/script.module.dmd-czech.common"]
+	path = kodi-czsk/script.module.dmd-czech.common
+	url = https://github.com/kodi-czsk/script.module.dmd-czech.common.git
+[submodule "kodi-czsk/plugin.video.dmd-czech.stream"]
+	path = kodi-czsk/plugin.video.dmd-czech.stream
+	url = https://github.com/kodi-czsk/plugin.video.dmd-czech.stream
+[submodule "kodi-czsk/plugin.video.tv.sme.sk"]
+	path = kodi-czsk/plugin.video.tv.sme.sk
+	url = https://github.com/kodi-czsk/plugin.video.tv.sme.sk.git
