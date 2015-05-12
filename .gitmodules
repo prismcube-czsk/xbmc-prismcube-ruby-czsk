@@ -76,3 +76,6 @@
 [submodule "kodi-czsk/plugin.video.tv.sosac.ph"]
 	path = kodi-czsk/plugin.video.tv.sosac.ph
 	url = https://github.com/kodi-czsk/plugin.video.sosac.ph.git
+[submodule "kodi-czsk/plugin.video.ivysilani"]
+	path = kodi-czsk/plugin.video.ivysilani
+	url = https://github.com/kodi-czsk/plugin.video.ivysilani
