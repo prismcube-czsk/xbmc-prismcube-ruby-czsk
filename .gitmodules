@@ -73,3 +73,6 @@
 [submodule "kodi-czsk/weather.dmd-xbmc.in-pocasi"]
 	path = kodi-czsk/weather.dmd-xbmc.in-pocasi
 	url = https://github.com/kodi-czsk/weather.dmd-xbmc.in-pocasi.git
+[submodule "kodi-czsk/plugin.video.tv.sosac.ph"]
+	path = kodi-czsk/plugin.video.tv.sosac.ph
+	url = https://github.com/kodi-czsk/plugin.video.sosac.ph.git
