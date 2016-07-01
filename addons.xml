@@ -197,7 +197,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.markiza.sk" name="markiza.sk" provider-name="Maros Ondrasek, refactoring: Peter Zaoral" version="1.0.6">
+<addon id="plugin.video.markiza.sk" name="markiza.sk" provider-name="Maros Ondrasek, refactoring: Peter Zaoral" version="1.0.7">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.stream.resolver" version="1.6.24" />
@@ -217,7 +217,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ta3.com" name="ta3.com" provider-name="Maros Ondrasek" version="1.1.0">
+<addon id="plugin.video.ta3.com" name="ta3.com" provider-name="Maros Ondrasek" version="1.1.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.stream.resolver" version="1.6.22" />
@@ -237,7 +237,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.videacesky.cz" name="videacesky.cz" provider-name="Libor Zoubek" version="1.0.10">
+<addon id="plugin.video.videacesky.cz" name="videacesky.cz" provider-name="Libor Zoubek" version="1.0.13">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.stream.resolver" version="1.6.17" />
@@ -247,7 +247,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">videacesky.cz</summary>
-    <summary lang="cs">videacasky.cz</summary>
+    <summary lang="cs">videacesky.cz</summary>
     <description lang="en">Watch content from videacesky.cz</description>
     <description lang="cs">Sledujte videa, reklamy, seriály, články a návody ze servru videacesky.cz</description>
     <platform>all</platform>
@@ -289,6 +289,25 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.barrandov.tv" name="barrandov.tv" provider-name="Maros Ondrasek" version="1.0.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.stream.resolver" version="1.6.13" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">barrandov.tv</summary>
+    <summary lang="cs">barrandov.tv</summary>
+    <summary lang="sk">barrandov.tv</summary>
+    <description lang="en">Watch online TV archive from barrandov.tv</description>
+    <description lang="cs">Sledujte TV archiv zo serveru barrandov.tv</description>
+    <description lang="sk">Sledujte TV archív zo serveru barrandov.tv</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="script.module.dmd-czech.common" name="dmd-czech common python modules" version="1.5.8" provider-name="Jiri Vyhnalek">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -302,11 +321,32 @@
   </extension>
 </addon>
 
-<addon id="script.module.stream.resolver" name="Stream Resolver" provider-name="Libor Zoubek" version="1.6.27">
+<addon id="plugin.video.hejbejse.tv" name="Hejbejse.tv" provider-name="Ivo Brhel" version="1.0.4">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.stream.resolver" version="1.6.13" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">hejbejse.tv</summary>
+    <summary lang="cs">hejbejse.tv</summary>
+    <description lang="en">Watch online hejbejse.tv</description>
+    <description lang="cs">Sledujte online hejbejse.tv</description>
+    <platform>all</platform>
+    <source>https://github.com/kodi-czsk/plugin.video.hejbejse.tv</source>
+  </extension>
+</addon>
+
+<addon id="script.module.stream.resolver" name="Stream Resolver" provider-name="Libor Zoubek" version="1.6.39">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.simplejson" version="2.0.10" />
     <import addon="script.common.plugin.cache" version="2.5.5"/>
+    <import addon="script.module.demjson" version="2.2.3" />
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.html5lib" version="0.999.0" />
   </requires>
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
@@ -396,7 +436,7 @@
 
 <addon id="plugin.video.dmd-czech.novaplus"
        name="Nova Plus TV Archiv"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="Jiri Vyhnalek">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
