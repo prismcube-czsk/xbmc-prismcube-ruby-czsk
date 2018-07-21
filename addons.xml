@@ -129,7 +129,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.sosac.ph" name="Sosáč" provider-name="L. Zoubek + jondas" version="1.0.3">
+<addon id="plugin.video.tv.sosac.ph" name="Sosáč" provider-name="L. Zoubek + jondas" version="1.1.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.stream.resolver" version="1.6.25" />
@@ -407,7 +407,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ta3.com" name="ta3.com" provider-name="Maros Ondrasek" version="1.0.1">
+<addon id="plugin.video.ta3.com" name="ta3.com" provider-name="Maros Ondrasek" version="1.1.5">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.stream.resolver" version="1.6.22" />
@@ -445,27 +445,9 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.sosac.ph" name="Sosáč" provider-name="L. Zoubek + jondas" version="1.1.2">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.module.stream.resolver" version="1.6.25" />
-  </requires>
-  <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">sosac.ph</summary>
-    <summary lang="cs">sosac.ph</summary>
-    <description lang="en">Watch online movies and tv shows from www.sosac.ph.</description>
-    <description lang="cs">Sledujte online videa a serialy z www.sosac.ph.</description>
-    <platform>all</platform>
-    <source>https://github.com/kodi-czsk/plugin.video.sosac.ph</source>
-  </extension>
-</addon>
-
 <addon id="plugin.video.tv.sme.sk"
        name="TV SME.sk"
-       version="1.0.1"
+       version="1.0.4"
        provider-name="Radim Stoklasa">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -488,6 +470,7 @@
     <description lang="sk">
         Plugin pre prehrávenie videí z archívu tv.sme.sk
     </description>
+    <source>https://github.com/kodi-czsk/plugin.video.tv.sme.sk</source>
   </extension>
 </addon>
 
