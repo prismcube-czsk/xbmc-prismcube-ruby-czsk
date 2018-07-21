@@ -82,3 +82,6 @@
 [submodule "kodi-czsk/plugin.video.stream-cinema"]
 	path = kodi-czsk/plugin.video.stream-cinema
 	url = https://github.com/bbaronSVK/plugin.video.stream-cinema
+[submodule "kodi-czsk/script.module.buggalo"]
+	path = kodi-czsk/script.module.buggalo
+	url = https://github.com/twinther/script.module.buggalo
