@@ -79,3 +79,6 @@
 [submodule "kodi-czsk/plugin.video.ivysilani"]
 	path = kodi-czsk/plugin.video.ivysilani
 	url = https://github.com/kodi-czsk/plugin.video.ivysilani
+[submodule "kodi-czsk/plugin.video.stream-cinema"]
+	path = kodi-czsk/plugin.video.stream-cinema
+	url = https://github.com/bbaronSVK/plugin.video.stream-cinema
